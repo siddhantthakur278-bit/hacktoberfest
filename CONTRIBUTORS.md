@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [siddhant kumar thakur](https://github.com/siddhantthakur278-bit)
+- Place: Pune,India
+- Bio: Btech CSE(AI and ML) student
+- Github: [siddhantthakur378-bit](https://github.com/siddhantthakur278-bit)
