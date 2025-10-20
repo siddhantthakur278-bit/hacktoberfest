@@ -2431,4 +2431,4 @@ Noida
 #### Name: [siddhant kumar thakur](https://github.com/siddhantthakur278-bit)
 - Place: Pune,India
 - Bio: Btech CSE(AI and ML) student
-- Github: [siddhantthakur378-bit](https://github.com/siddhantthakur278-bit)
+- Github: [siddhantthakur278-bit](https://github.com/siddhantthakur278-bit)
