@@ -24,4 +24,4 @@ Newton School of Technology, ADYPU,Pune
 
 ### Profile Link
 
-[Siddhant Kumar Thakur]](https://github.com/siddhantthakur278-bit)
+[siddhant kumar thakur]](https://github.com/siddhantthakur278-bit)
